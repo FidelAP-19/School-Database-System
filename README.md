@@ -316,33 +316,13 @@ public class Student extends Person {
 
 **Course:** CMP 158 - Programming Methods II  
 **Institution:** Lehman College, City University of New York (CUNY)  
-**Semester:** Fall 2024  
-**Grade:** A (4.0 GPA)
+**Semester:** Fall 2024 
 
 This project served as the capstone assignment, demonstrating mastery of:
 - Object-oriented programming principles
 - Java collections framework
 - File I/O and exception handling
 - Software design and architecture
-
-## 🔮 Future Enhancements
-
-### Planned Features
-- [ ] **Database Integration** - Migrate from file storage to SQL database
-- [ ] **GUI Interface** - Build JavaFX or Swing graphical interface
-- [ ] **Search Functionality** - Add search by name, department, course number
-- [ ] **Reporting System** - Generate reports (enrollment, teaching load, etc.)
-- [ ] **Export to CSV** - Allow data export in various formats
-- [ ] **Undo/Redo** - Command pattern for operation history
-- [ ] **Data Validation** - More robust input validation
-- [ ] **Unit Tests** - JUnit test coverage for all classes
-
-### Technical Improvements
-- [ ] **Builder Pattern** - Simplify object creation with many parameters
-- [ ] **Factory Pattern** - Centralize object creation logic
-- [ ] **Repository Pattern** - Abstract data access layer
-- [ ] **Logging** - Add proper logging instead of print statements
-- [ ] **Configuration File** - External config for settings (file paths, limits)
 
 ## 📁 Project Structure
 
@@ -379,11 +359,10 @@ This project is open source and available under the [MIT License](LICENSE).
 **Fidel Perez**
 - GitHub: [@FidelAP-19](https://github.com/FidelAP-19)
 - LinkedIn: [Fidel Perez](https://www.linkedin.com/in/fidel-perez-51288929b/)
-- Portfolio: [fidelperez.dev](https://your-portfolio-site.com) *(coming soon)*
+- Portfolio: [fidelperez.dev](https://fidelperez.netlify.app/)
 
 ## 🙏 Acknowledgments
 
-- **Professor:** CMP 158 instructor at Lehman College
 - **Institution:** Lehman College, City University of New York (CUNY)
 - **Course:** Programming Methods II
 
